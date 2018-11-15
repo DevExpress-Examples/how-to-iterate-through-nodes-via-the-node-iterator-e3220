@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Employees.cs](./CS/NodeTraversing/Employees.cs) (VB: [Employees.vb](./VB/NodeTraversing/Employees.vb))
+* [MainPage.xaml](./CS/NodeTraversing/MainPage.xaml) (VB: [MainPage.xaml](./VB/NodeTraversing/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/NodeTraversing/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/NodeTraversing/MainPage.xaml))
+<!-- default file list end -->
 # How to: Iterate Through Nodes via the Node Iterator
 
 
